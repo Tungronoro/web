@@ -1,6 +1,6 @@
 # Web Portfolio
 
-Trang web portfolio ca nhan.
+Trang web portfolio cá nhân.
 
 <a href="https://tungronoro.github.io/web/">
   <button>Xem trang web</button>
