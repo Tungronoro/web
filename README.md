@@ -2,7 +2,7 @@
 
 > **Portfolio cá nhân** — nơi giới thiệu bản thân và bộ ba sản phẩm **SubVoice**, **SubYoutube**, **SubQuick**.
 
-[![Xem trang web](https://img.shields.io/badge/%F0%9F%8C%90_Xem_trang_web-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://tungronoro.github.io/portfolio/)
+[![Xem trang web](https://img.shields.io/badge/%F0%9F%8C%90_Xem_trang_web-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://tungronoro.github.io/web/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tungronoro-181717?style=for-the-badge&logo=github)](https://github.com/Tungronoro)
 [![YouTube](https://img.shields.io/badge/YouTube-T%E1%BA%A5tT%E1%BA%A7nT%E1%BA%ADtPhim-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/TấtTầnTậtPhim)
 
@@ -18,8 +18,8 @@ Trang portfolio này được xây dựng bằng **HTML + CSS + JavaScript thu�
 
 | Link | Mô tả |
 |---|---|
-| 🌐 **[Xem trang portfolio](https://tungronoro.github.io/portfolio/)** | Trang portfolio trực tuyến (GitHub Pages) |
-| 💖 **[TrangDonate](https://tungronoro.github.io/portfolio/donate.html)** | Ủng hộ tác giả (MB Bank / PayPal) |
+| 🌐 **[Xem trang portfolio](https://tungronoro.github.io/web/)** | Trang portfolio trực tuyến (GitHub Pages) |
+| 💖 **[TrangDonate](https://tungronoro.github.io/web/donate.html)** | Ủng hộ tác giả (MB Bank / PayPal) |
 
 ## 🚀 Sản phẩm của tôi
 
@@ -50,7 +50,7 @@ Nếu các sản phẩm giúp bạn hữu ích, một ly cà phê là động l�
 
 - **MB Bank**: `0020118332203` — **NGUYEN THANH TUNG**
 - **PayPal**: [paypal.me/tungronoro](https://paypal.me/tungronoro)
-- **Trang donate**: [tungronoro.github.io/portfolio/donate.html](https://tungronoro.github.io/portfolio/donate.html)
+- **Trang donate**: [tungronoro.github.io/web/donate.html](https://tungronoro.github.io/web/donate.html)
 
 ---
 
